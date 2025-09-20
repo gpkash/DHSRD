@@ -2,3 +2,8 @@
 .DS_Store
 Thumbs.db
 .obsidian/
+
+
+
+# Ignore Smart Environment folder
+.smart-env
