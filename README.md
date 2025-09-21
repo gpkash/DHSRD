@@ -1,24 +1,47 @@
 # Daggerheart SRD (Community Edition)
 
-Welcome to the **Digital System Reference Document (SRD)** for [Daggerheart](https://www.darringtonpress.com/daggerheart/) — a community-driven resource designed to make the rules easy to browse, share, and build upon.
+Welcome to the **Markdown System Reference Document (SRD)** for [Daggerheart](https://www.darringtonpress.com/daggerheart/)! 
 
-This project is hosted here on GitHub so that everyone can benefit from open access, collaboration, and contributions.
+This project converts the official Daggerheart SRD into a format that’s clean, searchable, and easy to use in [Obsidian](https://obsidian.md/) or any markdown-based knowledge tool.
 
-## 🚧 Work in Progress
-This SRD is still being actively built out. Sections may be incomplete, reorganized, or updated frequently as content is added.  
+## 📖 About This Project
+The aim of this repository is to provide GMs with:
+- **Core Rules in Markdown** – The official mechanics, character creation, and gameplay systems, adapted for quick reference.
+- **Linked Notes** – Well-structured files with internal links for fast navigation in Obsidian.
+- **Community-Friendly Extensions** – Space for clarifications, optional rules, and player-made resources.
 
-## ✨ What’s Inside
-The goal is to have a Obsidian organized version of [Darrington Press' official SRD](https://www.daggerheart.com/wp-content/uploads/2025/09/Daggerheart-SRD-9-09-25.pdf).
-- 📖 **Rules Reference** – Core mechanics, character creation, and gameplay summaries.  
-- 🗂 **Organized Notes** – Clean, linked markdown files for easy navigation.  
-- 💡 **Community Additions** – Optional modules, clarifications, and examples. 
+This is **not** an official Darrington Press product. It’s a community-maintained resource built to make the SRD more accessible.
+
+## 🚧 Status
+This project is still a **work in progress**. Expect sections to be missing, reorganized, or updated frequently as the conversion continues. Contributions and feedback are very welcome!
 
 ## 📜 License
-This project is licensed under the **[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.  
+The contents of this repository are made available under the [Darrington Press Community Gaming (DPCGL) License](http://www.darringtonpress.com/license).
 
-## 🛠 Local Setup
-To work with this repo locally:  
-```bash
-git clone https://github.com/gpkash/DHSRD.git
-cd DHSRD
-```
+## 🛠 How to Use
+
+You can get this vault into Obsidian two ways: download a ZIP (no Git required) or clone with Git (easier updates).
+
+### Option A — Download as ZIP
+
+1. On this repo’s GitHub page, click **Code ▾** → **Download ZIP**.
+2. Extract the ZIP on your local machine.
+3. **Open in Obsidian:**
+   - Open Obsidian → **Open folder as vault** → select the extracted `DHSRD` folder.
+
+### Option B — Clone with Git
+
+1. Ensure you have git installed and set up.
+2. In a terminal, choose a location on your filesystem and run:
+   ```bash
+   git clone https://github.com/gpkash/DHSRD.git
+   cd DHSRD
+   ```
+
+## 📬 Contact
+
+Reach out if you have suggestions, spot mistakes, or want to share community content that could be included in this project!
+
+- 📧 Email: **capikaw@gmail.com**
+- 💬 Discord: **@capikaw**
+- 💖 Support: If you find this useful, please consider [buying me a tea via Ko-Fi](https://ko-fi.com/capikaw)! 🫶
