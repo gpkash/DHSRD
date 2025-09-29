@@ -1,0 +1,1 @@
+**Direct damage** is damage that can’t be reduced by marking Armor Slots.  

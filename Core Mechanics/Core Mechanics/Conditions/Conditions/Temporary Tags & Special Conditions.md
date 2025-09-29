@@ -1,0 +1,2 @@
+### TEMPORARY TAGS & SPECIAL CONDITIONS
+The **temporary tag** denotes a condition or effect that the affected creature can clear by making a move against it. When an affected PC makes a move to clear a temporary condition or effect, it normally requires a successful action roll using an appropriate trait. When an affected adversary makes a move to clear a temporary condition or effect, the GM puts the spotlight on the adversary and describes how they do it; this doesn’t require a roll but it does use up that adversary’s spotlight.  

@@ -1,7 +1,6 @@
 # INTRODUCTION
 
-Welcome to DAGGERHEART, a collaborative fantasy tabletop roleplaying game of incredible
-magic and heroic, heartfelt adventure.
+Welcome to DAGGERHEART, a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.
 
 ## WHAT IS THIS?
 This is the Daggerheart SRD (System Reference Document). It is a repository of the mechanical elements of the Daggerheart system, edited and organized for clarity, conciseness, and quick reference. You can use this SRD in several ways:

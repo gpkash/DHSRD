@@ -1,0 +1,1 @@
+- **Blaze of Glory:** Your character embraces death and goes out in a blaze of glory. Take one final action. It automatically critically succeeds (with GM approval), and then you cross through the veil of death.  

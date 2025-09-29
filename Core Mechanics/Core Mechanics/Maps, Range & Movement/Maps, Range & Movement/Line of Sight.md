@@ -1,0 +1,2 @@
+### LINE OF SIGHT
+Unless stated otherwise, a ranged attacker must have **line of sight** to their intended target to make an attack roll. If a partial obstruction lies between the attacker and target, the target has [[cover]]. 

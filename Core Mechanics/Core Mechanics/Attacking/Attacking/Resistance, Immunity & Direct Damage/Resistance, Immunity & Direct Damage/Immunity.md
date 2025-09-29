@@ -1,0 +1,1 @@
+If a target has **immunity** to a damage type, they ignore incoming damage of that type.  

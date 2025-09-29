@@ -1,0 +1,2 @@
+### CRITICAL DAMAGE
+When you get a critical success (i.e., you roll matching values on your Duality Dice) on an attack roll, you deal extra damage. Make the damage roll as usual, but add the maximum possible result of the damage dice to the final total. For instance, if an attack would normally deal 2d8+1 damage, a critical success would deal 2d8+1+16.  

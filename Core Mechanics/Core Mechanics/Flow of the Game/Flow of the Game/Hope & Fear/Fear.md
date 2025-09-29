@@ -1,0 +1,2 @@
+### FEAR
+The GM gains Fear whenever a player rolls with Fear and can spend Fear at any time to make or enhance a GM move or to use a Fear Feature. The GM can have up to 12 Fear at one time. Fear carries over between sessions.  

@@ -1,0 +1,2 @@
+### DAMAGE TYPES
+There are two damage types: **physical damage (phy)** and **magic damage (mag).** Unless stated otherwise, mundane weapons and unarmed attacks deal physical damage, and spells deal magic damage.  
