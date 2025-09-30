@@ -1,0 +1,30 @@
+## PRIMARY TIER 3 (LEVELS 5–7)  
+### Physical Weapons  
+
+| NAME                  | TRAIT    | RANGE      | DAMAGE    | BURDEN     | FEATURE                                                                                                                                          |
+| --------------------- | -------- | ---------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Advanced Broadsword   | Agility  | Melee      | d8+6 phy  | One-Handed | **Reliable:** +1 to attack rolls                                                                                                                 |
+| Advanced Longsword    | Agility  | Melee      | d8+9 phy  | Two-Handed | —                                                                                                                                                |
+| Advanced Battleaxe    | Strength | Melee      | d10+9 phy | Two-Handed | —                                                                                                                                                |
+| Advanced Greatsword   | Strength | Melee      | d10+9 phy | Two-Handed | **Massive:** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.                                 |
+| Advanced Mace         | Strength | Melee      | d8+7 phy  | One-Handed | —                                                                                                                                                |
+| Advanced Warhammer    | Strength | Melee      | d12+9 phy | Two-Handed | **Heavy:** -1 to Evasion                                                                                                                         | 
+| Advanced Dagger       | Finesse  | Melee      | d8+7 phy  | One-Handed | —                                                                                                                                                |
+| Advanced Quarterstaff | Instinct | Melee      | d10+9 phy | Two-Handed | —                                                                                                                                                |
+| Advanced Cutlass      | Presence | Melee      | d8+7 phy  | One-Handed | —                                                                                                                                                |
+| Advanced Rapier       | Presence | Melee      | d8+6 phy  | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range.                                               |
+| Advanced Halberd      | Strength | Very Close | d10+8 phy | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                                    |
+| Advanced Spear        | Finesse  | Very Close | d10+8 phy | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                                    |
+| Advanced Shortbow     | Agility  | Far        | d6+9 phy  | Two-Handed | —                                                                                                                                                |
+| Advanced Crossbow     | Finesse  | Far        | d6+7 phy  | One-Handed | —                                                                                                                                                |
+| Advanced Longbow      | Agility  | Very Far   | d8+9 phy  | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                                    |
+| Flickerfly Blade      | Agility  | Melee      | d8+5 phy  | One-Handed | **Sharpwung:** Gain a bonus to your damage rolls equal to your Agility.                                                                          |
+| Bravesword            | Strength | Melee      | d12+7 phy | Two-Handed | **Brave:** -1 to Evasion; +3 to Severe damage threshold                                                                                          |
+| Hammer of Wrath       | Strength | Melee      | d10+7 phy | Two-Handed | **Devastating:** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.                                          |
+| Labrys Axe            | Strength | Melee      | d10+7 phy | Two-Handed | **Protective:** +1 to Armor Score                                                                                                                |
+| Meridian Cutlass      | Presence | Melee      | d10+5 phy | One-Handed | **Dueling:** When there are no other creatures within Close range of the target, gain advantage on your attack roll against them.                |
+| Retractable Saber     | Presence | Melee      | d10+7 phy | One-Handed | **Retractable:** The blade can be hidden in the hilt to avoid detection.                                                                         |
+| Double Flail          | Agility  | Very Close | d10+8 phy | Two-Handed | **Powerful:** On a successful attack, roll an additional damage die and discard the lowest result.                                               |
+| Talon Blades          | Finesse  | Close      | d10+7 phy | Two-Handed | **Brutal:** When you roll the maximum value on a damage die, roll an additional damage die.                                                      |
+| Black Powder Revolver | Finesse  | Far        | d6+8 phy  | One-Handed | **Reloading:** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again. |
+| Spiked Bow            | Agility  | Very Far   | d6+7 phy  | Two-Handed | **Versatile:** This weapon can also be used with these statistics—Agility, Melee, d10+5.                                                         |

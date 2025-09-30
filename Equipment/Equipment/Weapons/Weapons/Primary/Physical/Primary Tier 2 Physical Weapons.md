@@ -1,0 +1,29 @@
+## PRIMARY TIER 2 (LEVELS 2–4)  
+### Physical Weapons  
+
+| NAME                  | TRAIT    | RANGE      | DAMAGE    | BURDEN     | FEATURE                                                                                                                                          |
+| --------------------- | -------- | ---------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Improved Broadsword   | Agility  | Melee      | d8+3 phy  | One-Handed | **Reliable:** +1 to attack rolls                                                                                                                 |
+| Improved Longsword    | Agility  | Melee      | d8+6 phy  | Two-Handed | —                                                                                                                                                |
+| Improved Battleaxe    | Strength | Melee      | d10+6 phy | Two-Handed | —                                                                                                                                                |
+| Improved Greatsword   | Strength | Melee      | d10+6 phy | Two-Handed | **Massive:** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.                                 |
+| Improved Mace         | Strength | Melee      | d8+4 phy  | One-Handed | —                                                                                                                                                |
+| Improved Warhammer    | Strength | Melee      | d12+6 phy | Two-Handed | **Heavy:** -1 to Evasion                                                                                                                         |
+| Improved Dagger       | Finesse  | Melee      | d8+4 phy  | One-Handed | —                                                                                                                                                |
+| Improved Quarterstaff | Instinct | Melee      | d10+6 phy | Two-Handed | —                                                                                                                                                |
+| Improved Cutlass      | Presence | Melee      | d8+4 phy  | One-Handed | —                                                                                                                                                |
+| Improved Rapier       | Presence | Melee      | d8+3 phy  | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range.                                               |
+| Improved Halberd      | Strength | Very Close | d10+5 phy | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                                    |
+| Improved Spear        | Finesse  | Very Close | d10+5 phy | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                                    |
+| Improved Shortbow     | Agility  | Far        | d6+6 phy  | Two-Handed | —                                                                                                                                                |
+| Improved Crossbow     | Finesse  | Far        | d6+4 phy  | One-Handed | —                                                                                                                                                |
+| Improved Longbow      | Agility  | Very Far   | d8+6 phy  | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                                    |
+| Gilded Falchion       | Strength | Melee      | d10+4 phy | One-Handed | **Powerful:** On a successful attack, roll an additional damage die and discard the lowest result.                                               |
+| Knuckle Blades        | Strength | Melee      | d10+6 phy | Two-Handed | **Brutal:** When you roll the maximum value on a damage die, roll an additional damage die.                                                      |
+| Urok Broadsword       | Finesse  | Melee      | d8+3 phy  | One-Handed | **Deadly:** When you deal Severe damage, the target must mark an additional HP.                                                                  |
+| Bladed Whip           | Agility  | Very Close | d8+3 phy  | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range.                                               |
+| Steelforged Halberd   | Strength | Very Close | d8+4 phy  | Two-Handed | **Scary:** On a successful attack, the target must mark a Stress.                                                                                |
+| War Scythe            | Finesse  | Very Close | d8+5 phy  | Two-Handed | **Reliable:** +1 to attack rolls                                                                                                                 |
+| Blunderbuss           | Finesse  | Close      | d8+6 phy  | Two-Handed | **Reloading:** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again. |
+| Greatbow              | Strength | Far        | d6+6 phy  | Two-Handed | **Powerful:** On a successful attack, roll an additional damage die and discard the lowest result.                                               |
+| Finehair Bow          | Agility  | Very Far   | d6+5 phy  | Two-Handed | **Reliable:** +1 to attack rolls                                                                                                                 |

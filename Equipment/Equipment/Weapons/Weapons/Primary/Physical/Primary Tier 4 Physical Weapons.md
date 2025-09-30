@@ -1,0 +1,29 @@
+## PRIMARY TIER 4 (LEVELS 8–10)  
+### Physical Weapons  
+
+| NAME                   | TRAIT    | RANGE      | DAMAGE     | BURDEN     | FEATURE                                                                                                                                |
+| ---------------------- | -------- | ---------- | ---------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Legendary Broadsword   | Agility  | Melee      | d8+9 phy   | One-Handed | **Reliable:** +1 to attack rolls                                                                                                       |
+| Legendary Longsword    | Agility  | Melee      | d8+12 phy  | Two-Handed | —                                                                                                                                      |
+| Legendary Battleaxe    | Strength | Melee      | d10+12 phy | Two-Handed | —                                                                                                                                      |
+| Legendary Greatsword   | Strength | Melee      | d10+12 phy | Two-Handed | **Massive:** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.                       |
+| Legendary Mace         | Strength | Melee      | d8+10 phy  | One-Handed | —                                                                                                                                      |
+| Legendary Warhammer    | Strength | Melee      | d12+12 phy | Two-Handed | **Heavy:** -1 to Evasion                                                                                                               |
+| Legendary Dagger       | Finesse  | Melee      | d8+10 phy  | One-Handed | —                                                                                                                                      |
+| Legendary Quarterstaff | Instinct | Melee      | d10+12 phy | Two-Handed | —                                                                                                                                      |
+| Legendary Cutlass      | Presence | Melee      | d8+10 phy  | One-Handed | —                                                                                                                                      |
+| Legendary Rapier       | Presence | Melee      | d8+9 phy   | One-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range.                                     |
+| Legendary Halberd      | Strength | Very Close | d10+11 phy | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                          |
+| Legendary Spear        | Finesse  | Very Close | d10+11 phy | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                          |
+| Legendary Shortbow     | Agility  | Far        | d6+12 phy  | Two-Handed | —                                                                                                                                      |
+| Legendary Crossbow     | Finesse  | Far        | d6+10 phy  | One-Handed | —                                                                                                                                      | 
+| Legendary Longbow      | Agility  | Very Far   | d8+12 phy  | Two-Handed | **Cumbersome:** -1 to Finesse                                                                                                          |
+| Dual-Ended Sword       | Agility  | Melee      | d10+9 phy  | Two-Handed | **Quick:** When you make an attack, you can mark a Stress to target another creature within range.                                     |
+| Impact Gauntlet        | Strength | Melee      | d10+11 phy | One-Handed | **Concussive:** On a successful attack, you can spend a Hope to knock the target back to Far range.                                    |
+| Sledge Axe             | Strength | Melee      | d12+13 phy | Two-Handed | **Destructive:** -1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress.                    |
+| Curved Dagger          | Finesse  | Melee      | d8+9 phy   | One-Handed | **Serrated:** When you roll a 1 on a damage die, it deals 8 damage instead.                                                            |
+| Extended Polearm       | Finesse  | Very Close | d8+10 phy  | Two-Handed | **Long:** This weapon’s attack targets all adversaries in a line within range.                                                         |
+| Swinging Ropeblade     | Presence | Close      | d8+9 phy   | Two-Handed | **Grappling:** On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you.             |
+| Ricochet Axes          | Agility  | Far        | d6+11 phy  | Two-Handed | **Bouncing:** Mark 1 or more Stress to hit that many targets in range of the attack.                                                   |
+| Aantari Bow            | Finesse  | Far        | d6+11 phy  | Two-Handed | **Reliable:** +1 to attack rolls                                                                                                       |
+| Hand Cannon            | Finesse  | Very Far   | d6+12 phy  | One-Handed | **Reloading:** After you make an attack, roll a d6. On a 1, you must mark a Stress to reload this weapon before you can fire it again. |

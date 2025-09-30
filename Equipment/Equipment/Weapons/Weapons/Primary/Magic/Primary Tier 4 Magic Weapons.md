@@ -1,0 +1,25 @@
+## PRIMARY TIER 4 (LEVELS 8–10)  
+### Magic Weapons  
+*All magic weapons require a Spellcast trait*  
+
+| NAME                       | TRAIT     | RANGE      | DAMAGE     | BURDEN     | FEATURE                                                                                                                                          |
+| -------------------------- | --------- | ---------- | ---------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Legendary Arcane Gauntlets | Strength  | Melee      | d10+12 mag | Two-Handed | —                                                                                                                                                |
+| Legendary Hallowed Axe     | Strength  | Melee      | d8+10 mag  | One-Handed | —                                                                                                                                                |
+| Legendary Glowing Rings    | Agility   | Very Close | d10+11 mag | Two-Handed | —                                                                                                                                                |
+| Legendary Hand Runes       | Instinct  | Very Close | d10+9 mag  | One-Handed | —                                                                                                                                                |
+| Legendary Returning Blade  | Finesse   | Close      | d8+9 mag   | One-Handed | **Returning:** When this weapon is thrown within its range, it appears in your hand immediately after the attack.                                |
+| Legendary Shortstaff       | Instinct  | Close      | d8+10 mag  | One-Handed | —                                                                                                                                                |
+| Legendary Dualstaff        | Instinct  | Far        | d8+12 mag  | Two-Handed | —                                                                                                                                                |
+| Legendary Scepter          | Presence  | Far        | d6+9 mag   | Two-Handed | **Versatile:** This weapon can also be used with these statistics—Presence, Melee, d8+6.                                                         |
+| Legendary Wand             | Knowledge | Far        | d6+10 mag  | One-Handed | —                                                                                                                                                |
+| Legendary Greatstaff       | Knowledge | Very Far   | d6+9 mag   | Two-Handed | **Powerful:** On a successful attack, roll an additional damage die and discard the lowest result.                                               |
+| Sword of Light & Flame     | Strength  | Melee      | d10+11 mag | Two-Handed | **Hot:** This weapon cuts through solid material.                                                                                                |
+| Siphoning Gauntlets        | Presence  | Melee      | d10+9 mag  | Two-Handed | **Lifestealing:** On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress.                                      |
+| Midas Scythe               | Knowledge | Melee      | d10+9 mag  | Two-Handed | **Greedy:** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.                                                     |
+| Floating Bladeshards       | Instinct  | Close      | d8+9 mag   | One-Handed | **Powerful:** On a successful attack, roll an additional damage die and discard the lowest result.                                               |
+| Bloodstaff                 | Instinct  | Far        | d20+7 mag  | Two-Handed | **Painful:** Each time you make a successful attack, you must mark a Stress.                                                                     |
+| Thistlebow                 | Instinct  | Far        | d6+13 mag  | Two-Handed | **Reliable:** +1 to attack rolls                                                                                                                 |
+| Wand of Essek              | Knowledge | Far        | d8+13 mag  | One-Handed | **Timebending:** You can choose the target of your attack after making your attack roll.                                                         |
+| Magus Revolver             | Finesse   | Very Far   | d6+13 mag  | One-Handed | **Reloading:** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again. |
+| Fusion Gloves              | Knowledge | Very Far   | d6+9 mag   | Two-Handed | **Bonded:** Gain a bonus to your damage rolls equal to your level.                                                                               |

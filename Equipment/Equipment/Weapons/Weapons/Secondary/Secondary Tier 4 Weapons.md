@@ -1,0 +1,14 @@
+## SECONDARY TIER 4 WEAPONS (LEVELS 8–10)
+
+| NAME                    | TRAIT    | RANGE      | DAMAGE   | BURDEN     | FEATURE                                                                                                                                   |
+| ----------------------- | -------- | ---------- | -------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Legendary Shortsword    | Agility  | Melee      | d8+6 phy | One-Handed | **Paired:** +5 to primary weapon damage to targets within Melee range                                                                     |
+| Legendary Round Shield  | Strength | Melee      | d4+6 phy | One-Handed | **Protective:** +4 to Armor Score                                                                                                         |
+| Legendary Tower Shield  | Strength | Melee      | d6+6 phy | One-Handed | **Barrier:** +5 to Armor Score; –1 to Evasion                                                                                             |
+| Legendary Small Dagger  | Finesse  | Melee      | d8+6 phy | One-Handed | **Paired:** +5 to primary weapon damage to targets within Melee range                                                                     |
+| Legendary Whip          | Presence | Very Close | d6+6 phy | One-Handed | **Startling:** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.                          |
+| Legendary Grappler      | Finesse  | Close      | d6+6 phy | One-Handed | **Hooked:** On a successful attack, you can pull the target into Melee range.                                                             |
+| Legendary Hand Crossbow | Finesse  | Far        | d6+7 phy | One-Handed | —                                                                                                                                         |
+| Braveshield             | Agility  | Melee      | d4+6 phy | One-Handed | **Sheltering:** When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage. | 
+| Knuckle Claws           | Strength | Melee      | d6+8 phy | One-Handed | **Doubled Up:** When you make an attack with your primary weapon, you can deal damage to another target within Melee range.               |
+| Primer Shard            | Instinct | Very Close | d4 phy   | One-Handed | **Locked On:** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.          |
