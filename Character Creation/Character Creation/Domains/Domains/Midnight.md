@@ -11,10 +11,10 @@ Whether by clever tricks, deft magic, or the cloak of night, those who channel t
 
 | Level | Midnight Domain Cards                                                                                                                                                                                                                                                                                       |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | [[Pick and Pull]], [[Rain of Blades]], [[Uncanny Disguise]] |
+| 1     | [[Pick And Pull]], [[Rain Of Blades]], [[Uncanny Disguise]] |
 | 2     | [[Midnight Spirit]], [[Shadowbind]]                                                                                                           |
-| 3     | [[Chokehold]], [[Veil of Night]]                                                                                                                 |
-| 4     | [[Glyph of Nightfall]], [[Stealth Expertise]]                                                                                     |
+| 3     | [[Chokehold]], [[Veil Of Night]]                                                                                                                 |
+| 4     | [[Glyph Of Nightfall]], [[Stealth Expertise]]                                                                                     |
 | 5     | [[Hush]], [[Phantom Retreat]]                                                                                                                        |
 | 6     | [[Dark Whispers]], [[Mass Disguise]]                                                                                                          |
 | 7     | [[Midnight-Touched]], [[Vanishing Dodge]]                                                                                               |

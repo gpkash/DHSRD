@@ -17,7 +17,10 @@ Those who choose this path tap into the raw, enigmatic forces of the realms to m
 | 4     | [[Blink Out]], [[Preservation Blast]]           |
 | 5     | [[Chain Lightning]], [[Premonition]]            |
 | 6     | [[Rift Walker]], [[Telekinesis]]                |
-| 7     | [[Arcana-Touched]], [[Cloaking Blast]]          | 
+| 7     | [[Arcana-Touched]], [[Cloaking Blast]]          |
 | 8     | [[Arcane Reflection]], [[Confusing Aura]]       |
 | 9     | [[Earthquake]], [[Sensory Projection]]          |
 | 10    | [[Adjust Reality]], [[Falling Sky]]             |
+
+
+

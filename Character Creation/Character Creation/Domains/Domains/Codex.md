@@ -20,5 +20,5 @@ Those who seek magical knowledge turn to the equations of power recorded in book
 | 7     | [[Book of Homet]], [[Codex-Touched]]                   |
 | 8     | [[Book of Vyola]], [[Safe Haven]]                      |
 | 9     | [[Book of Ronin]], [[Disintegration Wave]]             |
-| 10    | [[Book of Yarrow]], [[Transcendent Union]]             |
+| 10    | [[Book of Yarrow]], [[Trancendent Union]]             |
 

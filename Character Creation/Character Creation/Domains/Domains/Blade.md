@@ -20,4 +20,4 @@ Whether by steel, bow, or perhaps a more specialized arm, those who follow this 
 | 7     | [[Blade-Touched]], [[Glancing Blow]]                |
 | 8     | [[Battle Cry]], [[Frenzy]]                          |
 | 9     | [[Gore and Glory]], [[Reaper's Strike]]             |
-| 10    | [[Battle Monster]], [[Onslaught]]                   | 
+| 10    | [[Battle Monster]], [[Onslaught]]                   |

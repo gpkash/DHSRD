@@ -19,5 +19,5 @@ Those who walk this path tap into the unfettered power of the earth and its crea
 | 6     | [[Conjured Steeds]], [[Forager]]                              |
 | 7     | [[Sage-Touched]], [[Wild Surge]]                              |
 | 8     | [[Forest Sprites]], [[Rejuvenation Barrier]]                  |
-| 9     | [[Fane of the Wilds]], [[Plant Dominion]]                     |
-| 10    | [[Force of Nature]], [[Tempest]]                              | 
+| 9     | [[Fane Of The Wilds]], [[Plant Dominion]]                     |
+| 10    | [[Force Of Nature]], [[Tempest]]                              | 
