@@ -2,7 +2,7 @@
 
 Welcome to the **Markdown System Reference Document (SRD)** for [Daggerheart](https://www.darringtonpress.com/daggerheart/)! 
 
-This project converts the official Daggerheart SRD into a format that’s clean, searchable, and easy to use in [Obsidian](https://obsidian.md/) or any markdown-based knowledge tool.
+This project is a markdown version of the official Daggerheart Guidebook for a clean, searchable, and easy to use in [Obsidian](https://obsidian.md/) or any other markdown-based knowledge tool.
 
 ## 📖 About This Project
 The aim of this repository is to provide GMs with:
