@@ -1,0 +1,3 @@
+# USAGE LIMITS
+
+Some domain cards have an exhaustion limit that restricts how often you can use that card (for example, once per long rest). If you use that card, you’ll need a way to remember that it’s temporarily unavailable. You might choose to take that card out of your hand and place it face down on the table, turn it on its side or upside down, or any other method to remind yourself that you’ve already used it. If a card allows for a certain number of uses, you could add a token to it each time you activate it to keep track of how many times you’ve used it.

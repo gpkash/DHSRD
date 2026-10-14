@@ -1,0 +1,5 @@
+# CORE MECHANICS OVERVIEW
+
+The dice players use in Daggerheart most commonly fall into two different categories—your [[Duality Dice]] and your damage dice. Your [[Duality Dice]] are two differently colored twelve-sided dice (or d12s) that represent Hope and [[Fear]]. These dice embody the fate of the world and its effect on the characters’ success. Your damage dice correspond to the weapon or spell your character wields, expressing the deadliness of a successful attack.
+
+When you roll to see whether your character succeeds or fails at a task or challenge, you roll your [[Duality Dice]] and take the sum of their results, then add any bonuses your character has that apply to the action. If that total is equal to or higher than the Difficulty set by the GM, your character succeeds. If it’s lower, they fail. You’ll also tell the GM whether your Hope or [[Fear]] Die rolled higher, as the situation around you changes based on that result. We’ll discuss this more in-depth in [[Core Mechanics]].

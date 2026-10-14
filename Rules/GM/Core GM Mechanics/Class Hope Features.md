@@ -1,0 +1,3 @@
+# CLASS HOPE FEATURES
+
+Each class has a Hope Feature that requires 3 Hope to use; whenever a PC uses this unique and powerful feature, ensure that it impacts the scene. Draw attention to the ferocity and strength of the druid’s empowered Beastform, encourage the guardian to describe their burning determination as they patch their armor and fight on—these are your heroes’ powerful features, so yield the stage to the player to affect the fiction and describe how their PC’s Hope changes fate.

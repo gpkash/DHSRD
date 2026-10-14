@@ -1,0 +1,362 @@
+/* ===========================
+   Master Domain Card Styles
+   Target: the printed Daggerheart domain card
+   (art on top, level banner and recall circle over the art,
+    type ribbon, centered name, then the card text)
+
+   Markdown structure:
+     > [!domain-arcana]+ ![[arcana.png|18]] RUNE WARD
+     > 
+     > ![[Rune Ward.jpeg]]
+     > 
+     > **1**
+     > 
+     > | | |
+     > |---|---|
+     > | **Spell** | **0⚡** |
+     > 
+     > Body text...
+   =========================== */
+
+/* ---- Card container: a flex column so the pieces can be reordered like print ---- */
+.callout[data-callout^="domain-"] {
+  --callout-color: var(--domain-accent-rgb, 120, 80, 160);
+  --domain-accent: #7850a0;
+  --domain-accent-light: #ece0f5;
+  --domain-border: #b89cd6;
+  --domain-bg: #ffffff;
+  --domain-gold: #d4b25c;
+
+  position: relative;
+  display: flex !important;
+  flex-direction: column;
+  background: var(--domain-bg) !important;
+  border: 2px solid var(--domain-border) !important;
+  border-radius: 14px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.14);
+  padding: 0 !important;
+  overflow: hidden;
+  color: #1a1612 !important;
+  max-width: 420px;
+  font-family: "Seravek", "Avenir Next", "Gill Sans", "Segoe UI", -apple-system, sans-serif;
+  font-size: 15px;
+}
+
+.callout[data-callout^="domain-"] .callout-fold,
+.callout[data-callout^="domain-"] .callout-icon {
+  display: none !important;
+}
+
+/* The content's children become flex items of the card, so each can be ordered */
+.callout[data-callout^="domain-"] .callout-content {
+  display: contents !important;
+}
+
+.callout[data-callout^="domain-"] .callout-content > * {
+  order: 4;
+}
+
+/* ---- 0: Art, full width at the top ---- */
+.callout[data-callout^="domain-"] .callout-content > p:has(.image-embed) {
+  order: 0;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 0;
+}
+
+.callout[data-callout^="domain-"] .callout-content .image-embed,
+.callout[data-callout^="domain-"] .callout-content .image-embed img {
+  display: block !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+.callout[data-callout^="domain-"] .callout-content .image-embed img {
+  max-height: 230px !important;
+  object-fit: cover !important;
+  object-position: center 30% !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+/* ---- Level banner, over the top-left of the art ---- */
+.callout[data-callout^="domain-"] .callout-content > p:has(+ table) {
+  position: absolute;
+  top: 0;
+  left: 14px;
+  z-index: 5;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1;
+  filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.35));
+}
+
+.callout[data-callout^="domain-"] .callout-content > p:has(+ table) strong {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 38px;
+  height: 58px;
+  padding-top: 9px;
+  box-sizing: border-box;
+  background: var(--domain-accent) !important;
+  clip-path: polygon(0 0, 100% 0, 100% 84%, 50% 100%, 0 84%);
+  border-bottom: none;
+  color: #ffffff !important;
+  font-size: 1.45em;
+  font-weight: 800;
+  letter-spacing: 0;
+  -webkit-text-stroke: 0;
+}
+
+/* ---- 1: Type ribbon (the stats table), centered type label ---- */
+.callout[data-callout^="domain-"] .callout-content > table {
+  order: 1;
+  width: 100% !important;
+  margin: 0 !important;
+  border-collapse: collapse !important;
+  border: none !important;
+  border-top: 3px solid var(--domain-gold) !important;
+  border-bottom: 3px solid var(--domain-gold) !important;
+  background: var(--domain-accent) !important;
+  table-layout: fixed !important;
+}
+
+.callout[data-callout^="domain-"] .callout-content table thead {
+  display: none !important;
+}
+
+.callout[data-callout^="domain-"] .callout-content table tr {
+  background: transparent !important;
+}
+
+.callout[data-callout^="domain-"] .callout-content table td {
+  padding: 5px 8px !important;
+  border: none !important;
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 0.8em;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.callout[data-callout^="domain-"] .callout-content table td:first-child {
+  width: 100% !important;
+}
+
+/* Recall cost: a dark circle, over the top-right of the art */
+.callout[data-callout^="domain-"] .callout-content table td:last-child {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 5;
+  width: 40px !important;
+  height: 40px;
+  padding: 0 !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background: #1a1a1a !important;
+  border: 2px solid var(--domain-gold) !important;
+  border-radius: 50%;
+  font-size: 1em;
+  letter-spacing: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.callout[data-callout^="domain-"] .callout-content table strong {
+  color: #ffffff !important;
+  font-weight: 800;
+  -webkit-text-stroke: 0;
+}
+
+/* ---- 2: Card name, centered under the ribbon ---- */
+.callout[data-callout^="domain-"] .callout-title {
+  order: 2;
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  background: transparent !important;
+  padding: 12px 16px 4px 16px !important;
+  margin: 0 !important;
+  border: none !important;
+}
+
+.callout[data-callout^="domain-"] .callout-title-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
+  font-size: 1.3em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  line-height: 1.15;
+  color: #1a1612 !important;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.callout[data-callout^="domain-"] .callout-title-inner img {
+  width: 20px !important;
+  height: 20px !important;
+  filter: brightness(0) saturate(100%) invert(13%) sepia(8%) saturate(2976%) hue-rotate(329deg) brightness(96%) contrast(88%) !important;
+}
+
+/* ---- 4: Card text ---- */
+.callout[data-callout^="domain-"] .callout-content > p:not(:has(.image-embed)):not(:has(+ table)) {
+  margin: 0.4em 18px !important;
+  font-size: 0.95em;
+  line-height: 1.45;
+  color: #1a1612 !important;
+}
+
+.callout[data-callout^="domain-"] .callout-content > ul,
+.callout[data-callout^="domain-"] .callout-content > ol {
+  margin: 0.2em 18px 0.4em !important;
+  padding-left: 1.1em;
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+.callout[data-callout^="domain-"] .callout-content > :last-child {
+  margin-bottom: 18px !important;
+}
+
+.callout[data-callout^="domain-"] .callout-content strong {
+  font-weight: 700;
+  color: #000000;
+}
+
+.callout[data-callout^="domain-"] a.internal-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.callout[data-callout^="domain-"] a.internal-link:hover {
+  text-decoration: underline;
+}
+
+.callout[data-callout^="domain-"] .callout-content > hr {
+  border: none !important;
+  border-top: 2px solid var(--domain-accent) !important;
+  opacity: 0.25;
+  margin: 6px 18px 10px 18px !important;
+}
+
+
+/* ===========================
+   Domain-Specific Color Themes
+   =========================== */
+
+/* -- Arcana (Purple) -- */
+.callout[data-callout="domain-arcana"] {
+  --domain-accent: #734fa2;
+  --domain-accent-light: #ece4f7;
+  --domain-accent-rgb: 123, 79, 162;
+  --domain-border: #baa4de;
+  --domain-bg: #eae0f8;
+  --callout-color: 123, 79, 162;
+}
+
+
+/* -- Blade (Dark Red / Steel) -- */
+.callout[data-callout="domain-blade"] {
+  --domain-accent: #8B2F2F;
+  --domain-accent-light: #f5e0e0;
+  --domain-accent-rgb: 139, 47, 47;
+  --domain-border: #d4a0a0;
+  --domain-bg: #f8e0e0;
+  --callout-color: 139, 47, 47;
+}
+
+
+/* -- Bone (Warm Tan / Brown) -- */
+.callout[data-callout="domain-bone"] {
+  --domain-accent: #8A6D3B;
+  --domain-accent-light: #f5edda;
+  --domain-accent-rgb: 138, 109, 59;
+  --domain-border: #d4c49a;
+  --domain-bg: #f5ebd6;
+  --callout-color: 138, 109, 59;
+}
+
+
+/* -- Codex (Deep Blue) -- */
+.callout[data-callout="domain-codex"] {
+  --domain-accent: #2C5F8A;
+  --domain-accent-light: #dde8f4;
+  --domain-accent-rgb: 44, 95, 138;
+  --domain-border: #9ab8d4;
+  --domain-bg: #dfe9f6;
+  --callout-color: 44, 95, 138;
+}
+
+
+/* -- Grace (Soft Pink / Rose) -- */
+.callout[data-callout="domain-grace"] {
+  --domain-accent: #A44F7B;
+  --domain-accent-light: #f7e0ee;
+  --domain-accent-rgb: 164, 79, 123;
+  --domain-border: #dea4c8;
+  --domain-bg: #f8dfed;
+  --callout-color: 164, 79, 123;
+}
+
+
+/* -- Midnight (Dark Indigo) -- */
+.callout[data-callout="domain-midnight"] {
+  --domain-accent: #3B2F6E;
+  --domain-accent-light: #e4dff5;
+  --domain-accent-rgb: 59, 47, 110;
+  --domain-border: #a09ad4;
+  --domain-bg: #e5e0f5;
+  --callout-color: 59, 47, 110;
+}
+
+
+/* -- Sage (Forest Green) -- */
+.callout[data-callout="domain-sage"] {
+  --domain-accent: #3B7A4F;
+  --domain-accent-light: #ddf0e4;
+  --domain-accent-rgb: 59, 122, 79;
+  --domain-border: #9ad4a8;
+  --domain-bg: #ddf3e4;
+  --callout-color: 59, 122, 79;
+}
+
+
+/* -- Splendor (Gold / Amber) -- */
+.callout[data-callout="domain-splendor"] {
+  --domain-accent: #B8860B;
+  --domain-accent-light: #faf0d4;
+  --domain-accent-rgb: 184, 134, 11;
+  --domain-border: #dcc97a;
+  --domain-bg: #f7efd4;
+  --callout-color: 184, 134, 11;
+}
+
+
+/* -- Valor (Crimson / Bold Red) -- */
+.callout[data-callout="domain-valor"] {
+  --domain-accent: #B83230;
+  --domain-accent-light: #fae0df;
+  --domain-accent-rgb: 184, 50, 48;
+  --domain-border: #dc9a99;
+  --domain-bg: #f8dede;
+  --callout-color: 184, 50, 48;
+}
+
+
+/* -- Dread (Deep Indigo, from the printed card banner) -- */
+.callout[data-callout="domain-dread"] {
+  --domain-accent: #352c6a;
+  --domain-accent-light: #e0dbf0;
+  --domain-accent-rgb: 53, 44, 106;
+  --domain-border: #9a93c8;
+  --domain-bg: #dcd8ee;
+  --callout-color: 53, 44, 106;
+}

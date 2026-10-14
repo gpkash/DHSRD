@@ -1,0 +1,5 @@
+# EMBRACE DANGER
+
+The life of an adventurer is a dangerous one, often filled with treacherous paths, monstrous threats, and powerful foes. Along the way, you’ll face difficult choices and life-threatening peril. It’s important as adventurers to embrace this danger as part of the game. Playing it safe, not taking risks, and overthinking a plan can often slow the game to a halt.
+
+Don’t be afraid to leap in headfirst and think like a storyteller, asking what the hero of a novel or a TV show would do here? Think about not only what choice might be obvious, but what story could be most interesting, or how your character might approach the situation differently because of their background. Remember that you are not your character and that it’s okay to put them into harm’s way, push them to their limits, and take big risks if it’s right for the story. Their trials and their failures are not yours. We might always want to win, but players win by collaborating on a compelling narrative, not by having successful dice rolls every time.

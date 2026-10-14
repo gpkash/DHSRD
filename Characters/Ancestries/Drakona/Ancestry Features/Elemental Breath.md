@@ -1,0 +1,1 @@
+**Elemental Breath:** Choose an element for your breath (such as electricity, fire, or ice). You can use this breath against a target or group of targets within [[Very Close|Very Close Range]], treating it as an Instinct weapon that deals **d8** magic damage using your Proficiency.  

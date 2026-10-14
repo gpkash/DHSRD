@@ -1,0 +1,57 @@
+# PLANNING A STORY ARC
+
+Now that we have some ideas of what could potentially happen in our campaign, it’s time to talk about story arcs. Arcs are a connected series of sessions within a campaign that focus on a specific objective, theme, character, or idea. Though you won’t know for sure the path your players will take, by preparing the structure of the arc, you can ensure that you’re giving them the adequate narrative fodder for a satisfying story.
+
+Arcs are typically between three to five sessions in length, though they can be longer depending on how large of a campaign you’re running. It’s usually good to start small and build up to larger arcs as players get more invested in the story you’re telling together, but an arc’s structure typically remains the same regardless of the length.
+
+There are a few different structures that stories often take, but we’re going to use the Three-Act Structure as our framework because it is the most common and is the easiest to identify in many of today’s movies and TV shows. As always, feel free to experiment with your own style of storytelling and only use the things from this section that help you at your table!
+
+The Three-Act Structure is pretty straightforward—Act One is the introduction, Act Two is the trials and tribulations, and Act Three is the finale.
+
+This is something we see in almost every popular movie or TV show—a character wants something, they work hard and face challenges to get that thing, and finally succeed or fail. Either way, they always change because of the journey they went through. Because of this, it’s often what players expect out of a good story, even if they don’t know it. It’s what feels satisfying to us, because it’s the way we’re used to seeing stories. We can utilize that expectation in our prep to make our work easier.
+
+Let’s take the example from the previous “Tying Backstories Together” section to form our first arc. Given how much the NPC Maverick is intertwined in multiple PCs’ backstories, he’s going to be our focus here, since that will give almost everyone a chance to have their backstory interwoven into the story at the start. Maverick is the snobby human treasure collector who is Barnabas’s rival, and we’ve made the decision that Maverick is the one who stole Astrid Galamore’s hand in marriage, even though she has been in love with our party’s bard Jasper since childhood. Because Maverick is now residing in the kingdom with her, we’ve also decided that he is forcing Jasper’s old mentor, Mage Yaro, to use his arcane powers to tap into the expansive fungril network and hunt for treasure remotely, disrupting Sprout’s connection to the fungril network. And on their way to the kingdom, there will be no waiting around for the perfect opportune moment to act, because Marigold has a set of powerful elemental leaders hot on her trail.
+
+## ACT ONE: COLLISION
+
+Let’s make an event collide with our party that they can’t ignore. It’s often best to go to the most obvious answers first, then complicate things from there. In this case, let’s set up Maverick going after an artifact that the party has been asked to protect. If he’s using the fungril network to do it, then perhaps Maverick has Yaro create plantlike creatures filled with fungus that he can control! There’s our first act encounter—and we can build the rest of this arc from there.
+
+The most important thing to keep in mind about Act One is that you want to use it to introduce a bigger conflict the party will encounter later—give them a taste of what’s to come and draw them into the arc’s story. Using the techniques in the earlier “Running a Session” section, after you’ve played through Act One with your table, you might end up with something like this:
+
+**Beat One:** On their way to the city of Helayre, the party runs across the damage left behind by elementals—Marigold recognizes the work of those chasing her.
+
+**Beat Two:** As the party arrives in Helayre, they notice that large plants have overwhelmed everything. They also meet kind townsfolk who tell them about the attacks on the city by plant creatures at night. Upon inquiry, they’ll be taken to where the attacks are the worst—the university.
+
+**Beat Three:** At the university, the students all know Barnabas by name—the headmistress, Olivia Rose, is a proponent of his work. She shows the party what the plant creatures are after: the Stone Soul, belonging to a griffin from the hidden island of Boga Tiren. Olivia’s parents disappeared searching for Boga Tiren when she was a kid, and she has spent her life looking for them. If they extract the memory of its location from one of the plant creatures, then maybe she can find the island.
+
+**Beat Four:** Olivia captured a plant creature that attacked. When Sprout uses Death Connection, she learns it’s full of tiny mushrooms. She gets clearer flashes of the mage in a nearby port town. He cries out for help, looking pained. The mage is consumed by a memory in which a voice tells him to “get to the stone.”
+
+**Beat Five:** Plant creatures descend on the university. The party must hold them back and defend the Stone Soul. As the final creature goes down in battle, the party hears the mage’s voice seep through it—the voice calls out to Jasper with a nickname familiar only to Yaro. With the plant creatures defeated and Yaro revealed, Act One is complete.
+
+Though the party’s decisions might require you to adapt or make changes, this framework will help you use Act One to set up the rest of the arc. It creates questions for the PCs to chase—why is Yaro doing this? Why did he sound scared? Who was giving him orders? Could it be Maverick, looking for relics? And also—Where is Boga Tiren? Why is it hidden? Dramatic questions like these drive the PCs forward into Act Two.
+
+## ACT TWO: COMPLICATIONS
+
+In Act Two, the PCs are thrust into a journey to answer their big questions. Before the end of Act One, you should confirm which direction they’re going to go before you dive into planning—they’ll almost certainly want to figure out what’s happening with Mage Yaro, but what if they decide to instead escort Professor Rose to Boga Tiren? Or something else entirely? It’s often best to lead from behind as you approach Act Two—let the players show you the questions they want to answer most, then fill in the gaps as they move toward finding those answers.
+
+Once the party is off on this quest, Act Two is all about the complications that get in the way. As you prep for these next sessions, the complications should matter—they should be personal and speak to the themes and tone of the campaign.
+
+If, for example, the party decides to head north to the Galamore kingdom to find out what’s happening with Mage Yaro, we know they’ll be on the road for a few days to get up there. It might be tempting to throw in a few random encounters with wild animals, some people asking for help with unrelated issues, or some rolls to see how well they’re able to survive the distant travel, but Act Two is all about building up to a climactic finale. So what can we do instead to make it feel like a story, rather than just time passing before we get to the Galamore kingdom?
+
+We know Barnabas is searching for the legendary dragon Krugthar, and we’re likely going to have a future arc (when the players are higher level) centered around his attack on Bloomfare (Marigold’s home). One option is to foreshadow that event and show the dragon’s power. Maybe we put a village decimated by fire on their path, the village’s mage dead and the ruins gouged with immense claw marks. Those alive talk about an attack by a massive flying beast that disappeared into the sun—something Barnabas will immediately recognize as Krugthar. But to give the players something to act on now, maybe the beast had small companions or minions that could be creating havoc in the village, dragging important NPCs into the forest, or shapeshifting to replace normal citizens. You can change this encounter depending on the kind of challenge your table enjoys.
+
+We also know from Sprout’s backstory that if she stays somewhere too long, she rots away everything around her—perhaps we see the devastating effect that Maverick and Yaro had on the environment. Perhaps the party encounters twisted arcane creatures riddled with fungus and struggles to traverse a sickly land. These events serve as a reminder to Sprout of the place she decimated and the destruction she left behind. She could have the chance at a bit of redemption here, or at least knowledge of this kind of blight that helps keep her friends safe.
+
+Another option might be to encounter an additional place where Maverick’s fungril creatures successfully stole another artifact of power—but this relic is something that can be consumed to steal another person’s arcane power. Perhaps we decide this was the plan along, for Maverick to use Yaro until he could absorb his magic himself. Even without knowing the full context, the PCs will likely rush to the Galamore kingdom as fast as they can, knowing this powerful object has fallen into the wrong hands.
+
+Whatever the journey may entail, once the PCs have reached the kingdom to confront Yaro and learn about Maverick, we enter the final act of our arc.
+
+## ACT THREE: CLIMAX
+
+Act Three will usually see our PCs resolve some of the big questions they have and face off against the powerful force they’ve been preparing for through Act One and Act Two. Identify which answers the players are most excited about discovering and provide at least some of those answers in this act. Oftentimes, these answers are what launch the next arc of your campaign—having an idea of what they are going into this act will help you prepare for what’s to come.
+
+Though not absolutely mandatory, it’s also always a good idea to plan some sort of reveal, surprise, or twist in this act—something that isn’t quite what it seems. These plot twists keep the players on their toes and make them excited to find out what will happen next. In the case of our current example, we have a few twists prepared—Yaro is being controlled by Maverick, who has squirmed his way into the kingdom by marrying Astrid Galamore, Jasper’s childhood love.
+
+As we prepare this act, we should identify the questions we are going to answer—things like “Who is forcing Yaro to do this?” and “What happened to Astrid?” It’s important to think through what Maverick would do to keep himself safe and Yaro under his control. Perhaps he orders the king’s guard to attack the party when they enter the city, putting Jasper in conflict with the very people they grew up with. Maybe the kingdom is locked down and the drawbridge raised, forcing the group to find another way in. Think about how you can create a last set of complications that ramps up the tension until the final confrontation is inevitable.
+
+The arc will end with a showdown between Maverick and the party. Maybe he still has Yaro under his control and uses the mage as a weapon against them. Maybe he has absorbed Yaro’s arcane power using the relic he stole and is now attacking the party with magic himself. Maybe he has turned coward and is attempting to flee with Astrid through a secret tunnel beneath the castle. Whatever the encounter is, it should be a big, exciting, and dangerous ending to the arc that ties up some of the loose ends and creates an opportunity for more adventure in the next arc.

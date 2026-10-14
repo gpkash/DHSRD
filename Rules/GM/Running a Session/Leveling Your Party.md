@@ -1,0 +1,7 @@
+# LEVELING YOUR PARTY
+
+You can level up your party any time you wish, though it’s often simplest to do so at the end of an important session—such as when your party reaches the end of a story arc (see [[Planning a Story Arc]]). All players should level up at the same time, following the “Level Up” section on their character guide. Ask them to reflect on what their character learned in the previous arc and how it might have changed who they are, then choose two options from the list in their Level Up guide.
+
+If you are running a short campaign, you may want to level up every other session (or whatever cadence feels appropriate for your campaign length). This accelerates the power growth of your PCs, but it also allows them to experience the full arc of their characters’ mechanics before the campaign ends.
+
+When your PCs level up, they’ll gain new abilities, spells, damage thresholds, Experiences, and more, so be sure to review what changed for them. This is a good time to plan opportunities for your players to use those new features over the next arc. For example, if a PC’s new ability helps them eavesdrop on conversations, you could begin the next session with an espionage mission where that skill comes in handy. Similarly, if a PC chooses the Animal Whisperer Experience, they’d likely enjoy encountering wild animals that could be tamed during the upcoming arc.

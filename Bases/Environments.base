@@ -1,0 +1,71 @@
+filters:
+  and:
+    - kind == "environment"
+properties:
+  file.name:
+    displayName: Environment
+  note.tier:
+    displayName: Tier
+  note.type:
+    displayName: Type
+  note.difficulty:
+    displayName: Difficulty
+  note.source:
+    displayName: Source
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - type
+      - tier
+      - difficulty
+      - source
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By tier
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - difficulty
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By type
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - tier
+      - difficulty
+      - source
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Hope & Fear
+    filters:
+      and:
+        - source == "hope-and-fear"
+    order:
+      - file.name
+      - type
+      - tier
+      - difficulty
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC

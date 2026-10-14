@@ -1,0 +1,3 @@
+# FAR
+
+Your character is far enough away that they can see the appearance of a target, but not in detail, such as across a small battlefield or down a large corridor. This is about 30–100 feet away. While a character is in danger, the GM might call for them to make an Agility Roll to safely move into Melee range with something that’s within Far range of them. *Anything on a battle map that is within the length of the long edge of a standard piece of paper (11–12 inches) can usually be considered within Far range.*

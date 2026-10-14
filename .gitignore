@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian (keep snippets)
+.obsidian/*
+!.obsidian/snippets/
+
+# Obsidian trash
+.trash/
+
+# Temp/backup files
+*.tmp
+*~
+
+# Ignore Smart Environment folder
+.smart-env
+
+# Large binary assets
+Daggerheart_Core.pdf
+# Source rulebook PDFs (copyrighted, too large for GitHub)
+Daggerheart, Core.pdf
+Daggerheart, Hope & Fear.pdf

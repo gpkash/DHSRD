@@ -1,0 +1,1 @@
+**Defender**: Your animal transformation embodies a healing guardian spirit. When you're in Beastform and an ally within Close range marks 2 or more Hit Points, you can mark a [[Stress]] to reduce the number of Hit Points they mark by 1.

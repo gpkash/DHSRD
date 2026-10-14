@@ -1,0 +1,1 @@
+**Loyal Friend**: Once per long rest, when the damage from an attack would mark your companion's last [[Stress]] or your last Hit Point and you're within Close range of each other, you or your companion can rush to the other's side and take that damage instead.

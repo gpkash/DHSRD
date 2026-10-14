@@ -1,0 +1,3 @@
+# CLOSE
+
+Your character is close enough to a target to see their prominent details, such as across a room or in a neighboring market stall. This is about 10–30 feet away. While in danger, a character can move into Melee range with anything that’s within Close range of them as part of their action. *Anything on a battle map that is within the length of a standard pen or pencil (5–6 inches) can usually be considered within Close range.*

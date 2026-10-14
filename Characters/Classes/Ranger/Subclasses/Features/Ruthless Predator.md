@@ -1,0 +1,1 @@
+**Ruthless Predator**: When you make a damage roll, you can **mark a [[Stress]]** to gain a +1 bonus to your Proficiency. Additionally, when you deal Severe damage to an adversary, they must mark a [[Stress]].

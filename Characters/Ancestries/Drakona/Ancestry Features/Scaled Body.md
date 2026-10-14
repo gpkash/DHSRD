@@ -1,0 +1,1 @@
+**Scaled Body:** Your scales act as natural protection. When you would take physical damage, you can mark 1 [[Stress]] instead of marking Hit Points.  

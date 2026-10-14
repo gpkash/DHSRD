@@ -1,0 +1,5 @@
+# SESSIONS AND CAMPAIGNS
+
+When the GM and players gather to play Daggerheart, that game is called a session. Each session is a small story, and if the group plays more sessions, those small stories become part of a larger narrative known as a campaign. Longer campaigns may be broken into arcs—multiple sessions collectively focused on a specific part of the story. If overthrowing a corrupt ruler is a campaign, recruiting allies from a neighboring kingdom is an arc within that campaign.
+
+Daggerheart is built to accommodate many kinds of stories. Your group might enjoy playing an open-ended campaign that lasts months, meeting every week to continue your characters’ stories indefinitely, or you could designate a set number of sessions and play with a definite end point. Your group might enjoy a short ten-session romp with a party of characters before making new ones, or you may only want to play one session, known as a “one-shot.” All of those options are wonderful ways to play—do what works best for your group.

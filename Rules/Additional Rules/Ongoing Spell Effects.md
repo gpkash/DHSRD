@@ -1,0 +1,3 @@
+# ONGOING SPELL EFFECTS
+
+Once a spell’s effect is in play, as long as it doesn’t mention an expiration, it continues until a PC or the GM ends it, or until the fiction changes in a way that would naturally stop it. This means that if you cast a spell and then switch out that domain card for another in your vault, the spell’s effect can remain active, even though that card is no longer in your loadout.

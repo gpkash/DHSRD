@@ -1,0 +1,10 @@
+---
+kind: consumable
+source: hope-and-fear
+rarity: Common
+roll: 21
+---
+# GRAVITY BOMB
+_Consumable_
+
+You can throw this peach-sized mechanical orb at a point within Far range. It implodes and pulls all creatures and objects within Close range of that point into Melee range with it.

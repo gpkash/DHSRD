@@ -1,0 +1,3 @@
+# BLAZE OF GLORY
+
+If the player decides that their character will go out in a Blaze of Glory, work with them to ensure that the one action they take is as meaningful as possible without breaking the integrity of the story. When the seraph goes out in a Blaze of Glory, you might rule that their final attack is fatal, even if the adversary had more HP left than a critical success could possibly deal. But it might be a bad idea to let that same seraph shatter the barrier between the Mortal Realm and the Hallows Above to allow their god to walk freely among mortals. Consider the group's agreements about tone established in your session zero when deciding the scale of action a Blaze of Glory can accomplish.

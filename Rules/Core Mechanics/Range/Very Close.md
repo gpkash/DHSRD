@@ -1,0 +1,3 @@
+# VERY CLOSE
+
+Your character is very close to a target, able to see their fine details, and can reach them within moments. This is about 5–10 feet away. While in danger, a character can move into Melee range with anything that’s within Very Close range of them as part of their action. *Anything on a battle map that is within the shortest length of a game card (2–3 inches) can usually be considered within Very Close range.*

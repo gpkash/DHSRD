@@ -1,0 +1,7 @@
+# AVOID DEATH
+
+If a player is certain they aren't ready to say goodbye to their PC, this death move ensures the PC's survival—though they have a chance of taking a scar and permanently crossing out one of their Hope slots. If the character only has one Hope slot remaining when they make this move and they gain a scar, the player must retire the character. Even so, that ending may be preferable for players who would rather see their character give up the adventuring life than die.
+
+Using this move, the PC stays unconscious until healed by an ally or until the party's next long rest. Try to give the player chances to participate in play if the party isn't able to heal their PC or finish a long rest in short order. You might invite them to temporarily control an NPC in the meantime or, for something more character focused, narrate a scene of their PC on the knife's edge between life and death. On this precipice, they could be visited by the spirit of a departed loved one, receive a vision of a disaster they need to avert, or encounter something else that keeps them involved in the story.
+
+Even without gaining a scar, this move still comes with a cost: the current situation worsens, no matter the PC's fate. Work with the player to determine how that manifests. The situation might escalate as a new wave of enemies approaches or a countdown ticks down. Alternatively, the PC's fall might be what turns the tide of battle in the enemy's favor—they might seize an important item from the heroes or draw power from the character's suffering.

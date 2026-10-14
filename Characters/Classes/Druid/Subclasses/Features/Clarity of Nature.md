@@ -1,0 +1,1 @@
+**Clarity of Nature**: Once per long rest, you can create a space of natural serenity within Close range. When you spend a few minutes resting within the space, clear [[Stress]] equal to your [[Instinct]], distributed as you choose between you and your allies.

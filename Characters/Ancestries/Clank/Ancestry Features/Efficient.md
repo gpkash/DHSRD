@@ -1,0 +1,1 @@
+**Efficient**: When you take a [[Short Rest]], you can choose a [[Long Rest]] move instead of a [[Short Rest]] move.

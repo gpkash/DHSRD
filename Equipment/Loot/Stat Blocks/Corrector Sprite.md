@@ -1,0 +1,10 @@
+---
+kind: item
+source: core
+rarity: Common
+roll: 21
+---
+# CORRECTOR SPRITE
+_Common Item_
+
+This tiny sprite sits in the curve of your ear canal and whispers helpful advice during combat. Once per short rest, you can gain advantage on an attack roll.

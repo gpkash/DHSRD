@@ -1,0 +1,1 @@
+**Advantage** represents an opportunity that you seize to increase your chances of success. When you roll with advantage, you add a d6 advantage die to your total.

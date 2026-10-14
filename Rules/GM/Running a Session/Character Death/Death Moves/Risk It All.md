@@ -1,0 +1,5 @@
+# RISK IT ALL
+
+This is the move that the GM has the least say in. The [[Duality Dice]] decide the character's fate, and with the exception of the 10th-level Resurrection spell (which can only be used once), that roll is final unless you provide another means of resurrection in your story. If the player rolls with Hope, help them decide how to divide the value of the Hope Die between Hit Points and [[Stress]] to clear. You might remind the player that if they choose to clear only a small number of Hit Points, they may be forced to make another death move after just one further blow.
+
+Though it is important to reward your player if they roll with Hope by spotlighting this moment when their PC defies death, it is just as important to reward your player if they roll with [[Fear]] and their character meets their end. Let them have some final words with a friend or a memory that plays as they fade from consciousness. This gives them a moment to say goodbye to their character in a way that feels important and satisfying.

@@ -1,0 +1,3 @@
+# VULNERABLE
+
+When you gain the **Vulnerable** condition, you’re in a difficult position within the fiction. This might mean you’re knocked over, scrambling to keep your balance, caught off guard, magically enfeebled, or anything else that makes sense in the scene. When a creature becomes Vulnerable, the players and GM should work together to describe narratively how that happened. While you are Vulnerable, all rolls targeting you have advantage.

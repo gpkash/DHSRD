@@ -1,0 +1,3 @@
+# COUNTDOWNS
+
+Sometimes the GM, or a specific mechanic, utilizes a **countdown**. [[Countdowns|Countdowns]] are a way for the table to keep track of a coming event, which you do by setting a die to a certain value, then ticking that number down until it reaches 0. A countdown might tick down every time an action roll is made, every time a PC rolls with [[Fear]], during each downtime, or any other parameter (either set by the specific mechanics or by the GM to reflect the fiction). To learn more about countdowns, see [[GM Countdowns]].

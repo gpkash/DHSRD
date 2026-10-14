@@ -1,0 +1,5 @@
+# WHAT IS A TABLETOP ROLEPLAYING GAME?
+
+A tabletop roleplaying game, or TTRPG, is an interactive storytelling experience where players take on the roles of characters within a shared world and collaborate to tell a story about those characters. Daggerheart is meant to be played by three to six people—known as your group or table—with one person taking on the role of the game master (or GM) while the others each play a single character, referred to as a player character (or PC). The GM facilitates the story that takes shape around the PCs—they introduce rewards, complications, and consequences to the narrative, embody the story’s other characters (also known as non-player characters or NPCs), and help the story progress each time you play together.
+
+Like many roleplaying games, Daggerheart uses dice to determine the outcome of some uncertain events, providing an element of unpredictability to the results of choices you make. Even so, the game embraces player agency and imagination; the type of character you choose to play and the decisions you make about their background and experiences will make your odds better (or worse!) on those dice rolls.

@@ -1,0 +1,127 @@
+filters:
+  or:
+    - kind == "item"
+    - kind == "consumable"
+properties:
+  file.name:
+    displayName: Loot
+  note.kind:
+    displayName: Kind
+  note.rarity:
+    displayName: Rarity
+  note.roll:
+    displayName: Roll
+  note.source:
+    displayName: Source
+views:
+  - type: table
+    name: All
+    groupBy:
+      property: kind
+      direction: ASC
+    order:
+      - file.name
+      - kind
+      - rarity
+      - roll
+      - source
+    sort:
+      - property: source
+        direction: ASC
+      - property: roll
+        direction: ASC
+    columnSize:
+      note.roll: 66
+  - type: table
+    name: Items
+    filters:
+      and:
+        - kind == "item"
+    groupBy:
+      property: rarity
+      direction: ASC
+    order:
+      - file.name
+      - rarity
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Consumables
+    filters:
+      and:
+        - kind == "consumable"
+    groupBy:
+      property: rarity
+      direction: ASC
+    order:
+      - file.name
+      - rarity
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Hope & Fear
+    filters:
+      and:
+        - source == "hope-and-fear"
+    order:
+      - file.name
+      - kind
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Random Items Core
+    filters:
+      and:
+        - kind == "item"
+        - source == "core"
+    order:
+      - roll
+      - rarity
+      - file.name
+    sort:
+      - property: roll
+        direction: ASC
+  - type: table
+    name: Random Items Hope & Fear
+    filters:
+      and:
+        - kind == "item"
+        - source == "hope-and-fear"
+    order:
+      - roll
+      - rarity
+      - file.name
+    sort:
+      - property: roll
+        direction: ASC
+  - type: table
+    name: Random Consumables Core
+    filters:
+      and:
+        - kind == "consumable"
+        - source == "core"
+    order:
+      - roll
+      - rarity
+      - file.name
+    sort:
+      - property: roll
+        direction: ASC
+  - type: table
+    name: Random Consumables Hope & Fear
+    filters:
+      and:
+        - kind == "consumable"
+        - source == "hope-and-fear"
+    order:
+      - roll
+      - rarity
+      - file.name
+    sort:
+      - property: roll
+        direction: ASC

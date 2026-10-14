@@ -1,0 +1,5 @@
+# ADDING TOKENS TO CARDS
+
+A feature might ask you to add a number of tokens to a domain card. When you do, put the card on the table, grab the appropriate number of character tokens, and place them on the card. These tokens are used to track certain effects, but they don’t affect your ability to add tokens to your roll to represent your modifiers, or anything else you might need to use them for. If you still have tokens on your card at the end of a session and aren't told to clear them, ensure you track the number you have left to place back on that card at the beginning of the next session.
+
+> **Tip:** Some spells or abilities remain in effect once you activate them. Unless stated otherwise, this does not prevent you from activating another spell or ability—you can use two (or more) at the same time.

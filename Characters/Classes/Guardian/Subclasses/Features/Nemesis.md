@@ -1,0 +1,1 @@
+**Nemesis**: **Spend 2 Hope** to Prioritize an adversary until your next rest. When you make an attack against your Prioritized adversary, you can swap the results of your Hope and [[Fear]] Dice. You can only Prioritize one adversary at a time.

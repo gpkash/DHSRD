@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Everforest",
+  "showRibbon": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "adversary-card",
+    "adversary-bruiser-card",
+    "adversary-cards-master",
+    "environment-cards-master",
+    "domain-cards-master"
+  ]
+}

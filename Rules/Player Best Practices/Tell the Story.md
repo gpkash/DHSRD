@@ -1,0 +1,5 @@
+# TELL THE STORY
+
+You are an equal partner in telling the story alongside everyone else at the table. The GM presents opportunities and challenges for the party along the way, but they are not the sole author of the fiction you’re exploring together. *Daggerheart* is a collaborative game where everyone is responsible for bringing the tone, feel, and themes they’re interested in to the group. If you have an idea for a description or a detail to add, feel free to offer it to the table. If you want a specific emotional arc to be a part of your story, talk to your GM about finding opportunities to include it, and seize those opportunities when they show up. When you reach these moments in the story, take the time to showcase the emotions driving your character forward and the desires spurring their actions.
+
+Your role as a player in *Daggerheart* is to guide your character along the best story arc you can, not necessarily to always make the most tactical or strategic moves. Think about what you’re interested in saying thematically with the narrative, and let that be expressed through your character.

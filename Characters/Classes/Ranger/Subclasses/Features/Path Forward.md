@@ -1,0 +1,1 @@
+**Path Forward**: When you're traveling to a place you've previously visited or you carry an object that has been at the location before, you can identify the shortest, most direct path to your destination.

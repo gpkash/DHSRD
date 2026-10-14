@@ -1,0 +1,10 @@
+---
+kind: item
+source: hope-and-fear
+rarity: Uncommon
+roll: 32
+---
+# DAGGINAE'S OBSIDIAN SLATE
+_Item_
+
+This wafer-thin sheet of volcanic glass is used by archivists to keep notes. Any information etched onto its surface disappears but can be recalled via a command you set.

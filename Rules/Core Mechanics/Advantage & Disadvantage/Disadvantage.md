@@ -1,0 +1,1 @@
+**Disadvantage** represents an additional difficulty, hardship, or challenge you face when attempting an action. When you roll with disadvantage, you subtract a d6 disadvantage die from your total.

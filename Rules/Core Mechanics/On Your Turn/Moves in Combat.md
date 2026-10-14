@@ -1,0 +1,3 @@
+# MOVES IN COMBAT
+
+Since Daggerheart is a collaborative and conversational storytelling experience between the GM and players, combat has no initiative order, no rounds, and no distinct number of actions you can take while in the spotlight. Instead, fights play out narratively from moment to moment, just like noncombat scenes. This freedom of combat gives players the freedom and opportunity to team up, respond on the fly to narrative changes in the scene, and follow the fiction. If they aren’t mechanically locked into combat, players might find it easier to choose a solution other than violence, such as having their characters flee from their opponents or come to a temporary truce with their enemies.

@@ -1,0 +1,3 @@
+# ENDING OTHER TEMPORARY EFFECTS
+
+Some effects aren’t a condition, but state that they are **temporary**. They can be ended in the same way as temporary conditions. If you initiate the effect (for example, by using the “Ranger’s Focus” class feature), the GM can end it by spotlighting the adversary and describing how they get rid of it. Conversely, if the GM initiates the effect (such as an adversary creating a temporary cloud of poisonous gas), you can try to end it by making an appropriate action roll.

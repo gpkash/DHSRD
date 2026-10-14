@@ -1,0 +1,137 @@
+filters:
+  and:
+    - kind == "weapon"
+properties:
+  file.name:
+    displayName: Weapon
+  note.slot:
+    displayName: Slot
+  note.category:
+    displayName: Category
+  note.tier:
+    displayName: Tier
+  note.trait:
+    displayName: Trait
+  note.range:
+    displayName: Range
+  note.damage:
+    displayName: Damage
+  note.damage-type:
+    displayName: Damage type
+  note.burden:
+    displayName: Burden
+  note.feature:
+    displayName: Feature
+  note.source:
+    displayName: Source
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - slot
+      - tier
+      - trait
+      - range
+      - damage
+      - damage-type
+      - burden
+      - feature
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By tier
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - file.name
+      - slot
+      - trait
+      - range
+      - damage
+      - burden
+      - feature
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Primary Physical
+    filters:
+      and:
+        - slot == "Primary"
+        - category == "Physical"
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - file.name
+      - trait
+      - range
+      - damage
+      - burden
+      - feature
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Primary Magic
+    filters:
+      and:
+        - slot == "Primary"
+        - category == "Magic"
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - file.name
+      - trait
+      - range
+      - damage
+      - burden
+      - feature
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Secondary
+    filters:
+      and:
+        - slot == "Secondary"
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - file.name
+      - trait
+      - range
+      - damage
+      - burden
+      - feature
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Hope & Fear
+    filters:
+      and:
+        - source == "hope-and-fear"
+    order:
+      - file.name
+      - slot
+      - tier
+      - trait
+      - range
+      - damage
+      - burden
+      - feature
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC

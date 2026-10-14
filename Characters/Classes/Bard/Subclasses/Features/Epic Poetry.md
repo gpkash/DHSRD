@@ -1,0 +1,1 @@
+**Epic Poetry**. Your Rally Die increases to a **d10**. Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your advantage die.

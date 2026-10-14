@@ -1,0 +1,5 @@
+# TRAIT ROLLS
+
+A trait roll is an action roll that calls for a specific character trait to be used. These rolls often appear on domain cards and say something like “Presence Roll” or “Agility Roll (12).” If there is a number in parentheses after the trait, that is the Difficulty you must meet to succeed on the roll. If there is no number, the Difficulty is set by the GM based on the circumstances. You can add your Experiences and other bonuses to a trait roll.
+
+If a feature affects a roll that uses a certain trait (such as an Agility Roll), it affects any roll that uses that trait (such as a [[Spellcast Rolls|Spellcast Roll]] or attack roll that uses Agility). For example, the katari’s ancestry feature “Feline Instincts,” which allows the katari to reroll an Agility Roll, can be used both on an Agility Roll to traverse dangerous terrain and on an attack roll made with a weapon that uses Agility.

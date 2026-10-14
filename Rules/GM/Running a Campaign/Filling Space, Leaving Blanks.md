@@ -1,0 +1,5 @@
+# FILLING SPACE, LEAVING BLANKS
+
+As part of the prep for your next session, you’ll want to review the map your table built together. Think about how the locations your players created might affect the region, and add anything you think might be important or relevant to the sheet. For example, if someone labeled a spot with “The Healing Fields,” you might consider adding a town nearby that specializes in creating Health Potions or curing ailments, or a mage’s tower that overlooks the fields to protect them. Pay attention to where the PCs currently are in their journey—where might they consider going next?
+
+It’s also important to leave blanks. Don’t feel the need to fill everything in, and don’t worry about planning out what every labeled landmark or town is like. Leaving some things vague gives you the freedom to adapt on the fly and reduces the amount of worldbuilding work you have to do for places your players might never visit.

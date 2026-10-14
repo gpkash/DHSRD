@@ -1,0 +1,1 @@
+**Kick**: When you succeed on an attack against a target within [[Melee|Melee Range]], you can mark a [[Stress]] to kick yourself off them, dealing an extra 2d6 damage and knocking back either yourself or the target to [[Very Close|Very Close Range]].

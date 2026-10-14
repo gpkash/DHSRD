@@ -1,0 +1,216 @@
+/* ===========================
+   Master Adversary Card Styles
+   Target: match the printed Core Rulebook stat block
+   =========================== */
+
+.callout[data-callout^="adversary-"] {
+  --callout-color: var(--adversary-rgb, 180, 160, 120);
+  --adversary-line: #c9bda5;
+  background: var(--adversary-bg-color, #F2ECDE);
+  border: 2px solid color-mix(in srgb, var(--adversary-bg-color, #F2ECDE) 70%, #5a4a30);
+  border-radius: 10px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12);
+  padding: 14px 18px 16px 18px;
+  color: #1a1612;
+  font-family: "Seravek", "Avenir Next", "Gill Sans", "Segoe UI", -apple-system, sans-serif;
+  font-size: 80%;
+}
+
+/* No icon or fold chevron on the printed card (title still toggles fold) */
+.callout[data-callout^="adversary-"] .callout-icon,
+.callout[data-callout^="adversary-"] .callout-fold {
+  display: none;
+}
+
+.callout[data-callout^="adversary-"] .callout-content,
+.callout[data-callout^="adversary-"] .callout-content * {
+  color: inherit;
+  font-family: inherit;
+}
+
+/* Title */
+.callout[data-callout^="adversary-"] .callout-title {
+  padding: 0;
+  margin: 0;
+}
+
+.callout[data-callout^="adversary-"] .callout-title-inner,
+.callout[data-callout^="adversary-"] .callout-title-inner strong {
+  font-family: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
+  font-size: 1.55em;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  line-height: 1.1;
+  color: #000000;
+}
+
+/* Body */
+.callout[data-callout^="adversary-"] .callout-content {
+  padding: 0;
+  line-height: 1.35;
+  font-size: 1em;
+}
+
+.callout[data-callout^="adversary-"] .callout-content p {
+  margin: 0.3em 0;
+}
+
+/* Subtitle (Tier 1 Solo) - bold italic, tight under the title */
+.callout[data-callout^="adversary-"] .callout-content > p:first-child {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: 700;
+  font-style: italic;
+  color: #000000;
+}
+
+/* Labels (Difficulty:, HP:, etc.) */
+.callout[data-callout^="adversary-"] strong {
+  color: #000000;
+  font-weight: 700;
+}
+
+/* Wikilinks read as plain text, like print */
+.callout[data-callout^="adversary-"] a.internal-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.callout[data-callout^="adversary-"] a.internal-link:hover {
+  text-decoration: underline;
+}
+
+/* Art: centered under the tier line, scaled to fit the card */
+.callout[data-callout^="adversary-"] .internal-embed.image-embed {
+  display: block;
+  text-align: center;
+}
+
+.callout[data-callout^="adversary-"] .internal-embed img {
+  display: block;
+  margin: 6px auto 4px;
+  max-width: 100%;
+  max-height: 260px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* Stat block - Difficulty / ATK / Experience band (the only paragraph with line breaks) */
+.callout[data-callout^="adversary-"] .callout-content > p:has(> br) {
+  background: #FFFFFE;
+  padding: 8px 18px;
+  margin: 6px 0;
+  border-top: 2px solid var(--adversary-line);
+  border-bottom: 2px solid var(--adversary-line);
+}
+
+/* Experience line divider */
+.callout[data-callout^="adversary-"] .exp-line {
+  display: block;
+  border-top: 1px dashed rgba(80, 70, 55, 0.35);
+  padding-top: 6px;
+  margin-top: 4px;
+}
+
+/* FEATURES header: lone bold paragraph directly before the feature paragraphs */
+.callout[data-callout^="adversary-"] .callout-content > p:has(> strong:only-child):has(+ p > em:first-child > strong) {
+  font-size: 1.25em;
+  letter-spacing: 0.01em;
+  margin: 0.5em 0 0.3em;
+}
+
+/* Feature paragraphs: hanging indent, like print */
+.callout[data-callout^="adversary-"] .callout-content > p:has(> em:first-child > strong:only-child),
+.callout[data-callout^="adversary-"] .callout-content > p:has(> strong:first-child > em:only-child) {
+  padding-left: 1.2em;
+  text-indent: -1.2em;
+}
+
+/* Divider line */
+.callout[data-callout^="adversary-"] hr {
+  border: none;
+  border-top: 1px solid rgba(80, 70, 55, 0.25);
+  margin: 10px 0 8px;
+}
+
+/* Optional stat grid */
+.callout[data-callout^="adversary-"] .adversary-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px 12px;
+  margin: 8px 0;
+  padding: 8px 0;
+  border-top: 1px solid rgba(80, 70, 55, 0.2);
+  border-bottom: 1px solid rgba(80, 70, 55, 0.2);
+}
+
+.callout[data-callout^="adversary-"] .adversary-stats > div {
+  white-space: nowrap;
+  font-size: 0.92em;
+  color: #1a1612;
+}
+
+
+/* ===========================
+   Adversary Type-Specific Styles
+   =========================== */
+
+.callout[data-callout="adversary-bruiser"] {
+  --adversary-icon: lucide-biceps-flexed;
+  --adversary-bg-color: #f2e3de;
+  --adversary-rgb: 242, 227, 222;
+}
+
+.callout[data-callout="adversary-horde"] {
+  --adversary-icon: lucide-skull;
+  --adversary-bg-color: #f2efd5;
+  --adversary-rgb: 242, 239, 213;
+}
+
+.callout[data-callout="adversary-leader"] {
+  --adversary-icon: lucide-crown;
+  --adversary-bg-color: #eadef2;
+  --adversary-rgb: 234, 222, 242;
+}
+
+.callout[data-callout="adversary-minion"] {
+  --adversary-icon: lucide-users;
+  --adversary-bg-color: #f2dee7;
+  --adversary-rgb: 242, 222, 231;
+}
+
+.callout[data-callout="adversary-ranged"] {
+  --adversary-icon: lucide-target;
+  --adversary-bg-color: #e9f2de;
+  --adversary-rgb: 233, 242, 222;
+}
+
+.callout[data-callout="adversary-skulk"] {
+  --adversary-icon: lucide-moon;
+  --adversary-bg-color: #dee2f2;
+  --adversary-rgb: 222, 226, 242;
+}
+
+.callout[data-callout="adversary-social"] {
+  --adversary-icon: lucide-drama;
+  --adversary-bg-color: #def2ea;
+  --adversary-rgb: 222, 242, 234;
+}
+
+.callout[data-callout="adversary-solo"] {
+  --adversary-icon: lucide-eye;
+  --adversary-bg-color: #ececec;
+  --adversary-rgb: 236, 236, 236;
+}
+
+.callout[data-callout="adversary-standard"] {
+  --adversary-icon: lucide-swords;
+  --adversary-bg-color: #F2ECDE;
+  --adversary-rgb: 242, 236, 222;
+}
+
+.callout[data-callout="adversary-support"] {
+  --adversary-icon: lucide-shield-plus;
+  --adversary-bg-color: #deeef2;
+  --adversary-rgb: 222, 238, 242;
+}

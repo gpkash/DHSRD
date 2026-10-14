@@ -1,0 +1,1 @@
+**Retract**: Mark a [[Stress]] to retract into your shell. While in your shell, you have [[Resistance & Immunity|Resistance]] to physical damage, you have [[Disadvantage]] on action rolls, and you can't move.

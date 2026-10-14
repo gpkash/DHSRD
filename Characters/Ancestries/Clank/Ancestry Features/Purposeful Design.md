@@ -1,0 +1,1 @@
+**Purposeful Design**: Decide who made you and for what purpose. At [[Character Creation]], choose one of your Experiences that best aligns with this purpose and gain a permanent +1 bonus to it.

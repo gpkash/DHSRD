@@ -1,0 +1,232 @@
+filters:
+  and:
+    - kind == "domain-card"
+properties:
+  file.name:
+    displayName: Card
+  note.domain:
+    displayName: Domain
+  note.level:
+    displayName: Level
+  note.card-type:
+    displayName: Type
+  note.recall:
+    displayName: Recall
+  note.source:
+    displayName: Source
+views:
+  - type: table
+    name: All
+    groupBy:
+      property: domain
+      direction: ASC
+    order:
+      - file.name
+      - domain
+      - level
+      - card-type
+      - recall
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.recall: 104
+  - type: table
+    name: By domain
+    groupBy:
+      property: domain
+      direction: ASC
+    order:
+      - file.name
+      - level
+      - card-type
+      - recall
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By level
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - domain
+      - card-type
+      - recall
+    sort:
+      - property: domain
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Arcana
+    filters:
+      and:
+        - domain == "Arcana"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.recall: 97
+  - type: table
+    name: Blade
+    filters:
+      and:
+        - domain == "Blade"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Bone
+    filters:
+      and:
+        - domain == "Bone"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Codex
+    filters:
+      and:
+        - domain == "Codex"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Dread
+    filters:
+      and:
+        - domain == "Dread"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Grace
+    filters:
+      and:
+        - domain == "Grace"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Midnight
+    filters:
+      and:
+        - domain == "Midnight"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Sage
+    filters:
+      and:
+        - domain == "Sage"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Splendor
+    filters:
+      and:
+        - domain == "Splendor"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Valor
+    filters:
+      and:
+        - domain == "Valor"
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - card-type
+      - recall
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By type
+    groupBy:
+      property: card-type
+      direction: ASC
+    order:
+      - file.name
+      - domain
+      - level
+      - recall
+    sort:
+      - property: domain
+        direction: ASC
+      - property: level
+        direction: ASC

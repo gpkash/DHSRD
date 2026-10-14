@@ -1,0 +1,3 @@
+# THE GOLDEN RULE
+
+The most important rule of Daggerheart is to make the game your own. The rules are designed to help you enjoy the experience at the table, but everyone has a different approach to interpreting rules and telling stories. The rules should never get in the way of the story you want to tell, the characters you want to play, or the adventures you want to have. As long as your group agrees, everything can be adjusted to fit your play style. If there’s a rule you’d rather ignore or modify, feel free to implement any change with your table’s consent.

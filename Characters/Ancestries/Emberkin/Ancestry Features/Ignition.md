@@ -1,0 +1,1 @@
+**Ignition**: **Mark a [[Stress]]** to wreathe your primary weapon in flame until the end of the scene. While the weapon is ablaze, it gives off a bright light, and you gain a **1d6** bonus to damage rolls with that weapon.

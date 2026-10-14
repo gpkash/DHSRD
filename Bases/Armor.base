@@ -1,0 +1,51 @@
+filters:
+  and:
+    - kind == "armor"
+properties:
+  file.name:
+    displayName: Armor
+  note.tier:
+    displayName: Tier
+  note.major-threshold:
+    displayName: Major
+  note.severe-threshold:
+    displayName: Severe
+  note.armor-score:
+    displayName: Base score
+  note.feature:
+    displayName: Feature
+  note.source:
+    displayName: Source
+views:
+  - type: table
+    name: All
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - file.name
+      - major-threshold
+      - severe-threshold
+      - armor-score
+      - feature
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Hope & Fear
+    filters:
+      and:
+        - source == "hope-and-fear"
+    groupBy:
+      property: tier
+      direction: ASC
+    order:
+      - file.name
+      - major-threshold
+      - severe-threshold
+      - armor-score
+      - feature
+    sort:
+      - property: file.name
+        direction: ASC

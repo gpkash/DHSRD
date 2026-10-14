@@ -1,0 +1,5 @@
+# EXTENDED DOWNTIME
+
+If you’re fast-forwarding the story across multiple days (or longer), you probably don’t need a separate scene for each long rest during that time. During these longer stretches, consider talking to your players about what their characters want to accomplish, then using montages to illustrate the passage of time. You gain 1d6 [[Fear]] per PC and can advance the long-term countdowns as appropriate for the extended period of rest.
+
+Some PC goals might require a single roll (or none at all). Others might call for a series of progress countdown rolls to advance a project across several long rests. It’s trivial for a bard to gather rumors during a week-long stay in the city, but you might ask them to make a Presence Roll to see whether they learn some especially important information in the process. Similarly, you could ask your warrior to make a Finesse Roll if they’re trying to enhance their armor with rare materials obtained in their last adventure.

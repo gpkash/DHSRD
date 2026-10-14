@@ -1,0 +1,1 @@
+**Charge**: When you succeed on an [[Agility]] Roll to move from Far or [[Very Far|Very Far Range]] into [[Melee|Melee Range]] with one or more targets, you can mark a [[Stress]] to deal 1d12 physical damage to all targets within [[Melee|Melee Range]].

@@ -1,0 +1,5 @@
+# TARGETS & GROUPS
+
+An effect often asks you to choose a target within range. This means you choose a single creature to affect. When it makes sense in the story, you can ask the GM if you can target a single object in range, rather than an adversary, adjusting the effects as needed. If an effect allows for multiple targets, you can choose any that fall within the parameters of the effect.
+
+To affect a **group** of targets, those targets must be clumped together in an area within Very Close range of a point you choose. You can always ask the GM if adversaries would be considered a group before you make a move. Regardless of the number of targets, you only make one attack roll and compare its result to the Difficulty of each eligible target to determine which creatures you succeed against. When your attack deals damage to more than one target, roll damage once and apply the total to each target the attack succeeded against.
