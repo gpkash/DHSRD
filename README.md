@@ -28,7 +28,6 @@ DHSRD/
 ├── Adversaries/         Landing note, Guidance/ (choosing and using), Stat Blocks/ (one note per adversary, core + Hope & Fear)
 ├── Environments/        Landing note, Guidance/, Stat Blocks/ (one note per environment)
 ├── Equipment/           Armor/ and Weapons/ (landing notes + Stat Blocks/, one note per item), Loot/ (guides + Stat Blocks/ with all 240 items and consumables, core and Hope & Fear together)
-├── Campaign Frames/     Core and Hope & Fear frames
 ├── World/               World overview and Core Realms
 ├── Locations/           Original homebrew region (Sablewood)
 ├── Bases.md             Landing page for every base (start here for lists)
@@ -74,7 +73,7 @@ Loaded automatically from `.obsidian/snippets/`:
 
 ## Status
 
-Work in progress. Not yet in the vault from the printed books: the Full Example of Play, Death and Scars, the Example Character, the Chapter Five opener, the six Core campaign frames (condensed rather than full), parts of Leveling Up, and the trait Difficulty Benchmarks.
+Work in progress. Not yet in the vault from the printed books: the Full Example of Play, Death and Scars, the Example Character, the Chapter Five opener, parts of Leveling Up, and the trait Difficulty Benchmarks.
 
 ## Attribution and license
 
@@ -91,6 +90,6 @@ Darrington Press™ and the Darrington Press authorized work logo are trademarks
 
 ### Content beyond the SRD
 
-DHSRD also contains material transcribed from the Daggerheart Core Rulebook and the Hope & Fear expansion, including artwork, that is **not** Public Game Content and is **not** licensed under the DPCGL. It remains © Critical Role, LLC / Darrington Press, LLC, and all rights in it belong to them. That includes campaign frames, art, and the exact text of the rulebooks. It is included here as a free fan resource for people who own the books, and may be removed at the rights holder's request. To report a concern, [open an issue](https://github.com/gpkash/DHSRD/issues).
+DHSRD also contains material transcribed from the Daggerheart Core Rulebook and the Hope & Fear expansion, including artwork, that is **not** Public Game Content and is **not** licensed under the DPCGL. It remains © Critical Role, LLC / Darrington Press, LLC, and all rights in it belong to them. That includes art and the exact text of the rulebooks. Campaign frames are not included. It is included here as a free fan resource for people who own the books, and may be removed at the rights holder's request. To report a concern, [open an issue](https://github.com/gpkash/DHSRD/issues).
 
 `Locations/` (Sablewood) is original homebrew by the maintainer.
